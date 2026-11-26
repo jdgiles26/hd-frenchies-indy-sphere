@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="HD Frenchies Indy">
+  <rect width="32" height="32" rx="7" fill="#06050a"/>
+  <ellipse cx="8.4" cy="10.4" rx="4" ry="6.6" fill="#a410b9" transform="rotate(-12 8.4 10.4)"/>
+  <ellipse cx="23.6" cy="10.4" rx="4" ry="6.6" fill="#8bf0d0" transform="rotate(12 23.6 10.4)"/>
+  <circle cx="16" cy="19.4" r="8.1" fill="#e6c57a"/>
+  <ellipse cx="16" cy="22.8" rx="4.4" ry="3.1" fill="#f4ead0"/>
+  <ellipse cx="16" cy="21" rx="1.65" ry="1.2" fill="#06050a"/>
+  <circle cx="12.8" cy="17.6" r="1.2" fill="#06050a"/>
+  <circle cx="19.2" cy="17.6" r="1.2" fill="#06050a"/>
+</svg>
